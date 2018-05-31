@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Can I access the App when I’m not connected to the Internet?</string>
+		<key>answer</key>
+		<string>You can open &amp; view the app at any time. However, if you are not connected to the internet, you would only be able to view the water consumption information &amp; GKK status at the time the phone was last connected to the internet. Once you connect to the internet, all the information will be updated instantly.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Will I be charged for data usage when accessing the Pureit App?</string>
+		<key>answer</key>
+		<string>You would be charged for data usage according to the plan set by your Internet Service Provider (ISP)/Mobile Service Provider. Please contact your service provider regarding data charges.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How much bandwidth will the App use on my Wi-Fi or data connection?</string>
+		<key>answer</key>
+		<string>The Pureit App uses a very limited amount of bandwidth, less than 20 MB per month, which is comparable to any other connected device.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Can I install the Pureit App on my computer or other smart device?</string>
+		<key>answer</key>
+		<string>Currently we only support apps for iPhone, iPod Touch and Android Mobile.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What happens if my home Wi-Fi connection goes off?</string>
+		<key>answer</key>
+		<string>The Pureit device requires electricity and internet to connect to the server &amp; send data to the App. If the Wi-Fi connection goes off, the device will not be able to send data to the server &amp; the App. However, you will still be able to view your past consumption data. Once the Wi-Fi connection is restored, your device will re-connect automatically and update the data to the cloud server.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What happens to the water purifier if the electric power at the point of installation goes out?</string>
+		<key>answer</key>
+		<string>If there is an electric power outage, the device will not be able to send data to the server &amp; the App. Once the electricity and Internet connection is restored, your device will re-connect automatically and update data to the cloud. While the power is out, you will still be able to access the App and view past data, as the data is stored on our cloud server.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Does my Pureit device use a cloud server?</string>
+		<key>answer</key>
+		<string>Yes. The data and analysis from the device runs on our cloud network so you can access it from anywhere.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Does the App use location services?</string>
+		<key>answer</key>
+		<string>The App uses your location to enhance your overall experience. You may choose to disable your location from your phone settings.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Is my data private &amp; secure?</string>
+		<key>answer</key>
+		<string>Yes! We take your privacy and data security very seriously, and regularly examine our practices to ensure that they exceed industry standards. We also encourage you to secure your wireless networks and use strong passwords.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How does the Pureit device communicate with the App?</string>
+		<key>answer</key>
+		<string>The device uses Wi-Fi to connect to your home wireless router and then uses your Internet service to communicate with the cloud.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Will the Pureit device work with any router?</string>
+		<key>answer</key>
+		<string>The Pureit device is compatible with 2.4 GHz routers running WPA-PSK or open security. 5 GHz networks are not currently supported.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Where should I ideally locate the router within my home?</string>
+		<key>answer</key>
+		<string>Wi-Fi routers operating on the 2.4 GHz band cover a range of up to 150 feet (46m) indoors. Physical obstructions in homes such as brick walls and metal frames or sidings reduce the range of a Wi-Fi network by 25% or more. For optimal performance, please follow these simple guidelines:
+o	Position your router in a centralized location that minimizes the distance between the router &amp; your Pureit device.
+o	Stone, tile, mirrors, and large metal surfaces tend to interfere with wireless communication. Avoid placing your router near such surfaces.
+o	If possible, locate your router in an open space at least 3 feet above the floor.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How do I re-connect my device if I’ve changed my Wi-Fi network settings?</string>
+		<key>answer</key>
+		<string>Please perform the following sequence:
+1.	Go to Settings &gt; My Devices
+2.	Select the Reset button on the device
+3.	Follow the instructions on the screen</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Can I link my family &amp; friends to my Pureit device and App?</string>
+		<key>answer</key>
+		<string>Up to 2 users can link to the same device. However, if the primary user deletes the device from the account, the other user will lose access to it as well.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How will I know when my GKK needs to be replaced?</string>
+		<key>answer</key>
+		<string>The Pureit App will notify you when your GKK is running low &amp; needs to be replaced. You could also visit the Manage Pureit page within the App menu to see the current status of your GKK.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Will I be notified if my GKK needs to be replaced?</string>
+		<key>answer</key>
+		<string>Yes, you will receive an in-App notification when we detect that your GKK needs to be replaced. In addition, we will also reach out to you through e-mail on the e-mail address that you registered the App with.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>The App says I need to change my GKK. What do I do now?</string>
+		<key>answer</key>
+		<string>You will need to book a GKK through the app under the Manage Pureit page. A Pureit technician will then fix a time to visit you &amp; change your GKK.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What is Club Pureit?</string>
+		<key>answer</key>
+		<string>Club Pureit an exclusive loyalty program for our users. Through Club Pureit you can avail some exclusive offers and also earn reward points based on your water consumption, Pureit device/GKK purchase &amp; referring friends to use Pureit devices.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Can I change my personal information at any time?</string>
+		<key>answer</key>
+		<string>Yes, you can change your personal information at any time by visiting the My Profile page within the App menu. We advise you to keep your personal information updated at all times.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What happens if I sell my device?</string>
+		<key>answer</key>
+		<string>If you sell your device, please delete your account from the App. Go to Menu &gt; Settings &gt; My Devices &gt; Delete Device. This will ensure that your app is unlinked from the device and your data is deleted from our system</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What happens if I delete the App from my phone?</string>
+		<key>answer</key>
+		<string>If you delete the App, you will not be able to view your consumption information and GKK status. However, when you re-install the app, the device will instantly update the consumption data &amp; GKK status. When you re-install the app, please enter your device ID, post which you will be prompted to sign in as an existing user. You will have to enter your mobile no. and the OTP that is sent to you. You do not have to connect the device to the Wi-Fi again.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What do I do if I change my phone?</string>
+		<key>answer</key>
+		<string>Please install the Pureit app on your new phone, and enter your device ID. You will be prompted to sign in as an existing user. Please enter your mobile no. and the OTP that is sent to you. You do not have to connect the device to the Wi-Fi again.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What do I do if I change my mobile no.?</string>
+		<key>answer</key>
+		<string>If you change your mobile no. please update your profile within the App menu. If you have changed your mobile no. &amp; your phone, please install the Pureit app on your new phone, and enter your device ID. You will be prompted to update your mobile no. Please enter your previous mobile no. &amp; your new mobile no. An OTP will be sent to the e-mail address you had registered the App with. Please use this OTP to re-connect to the App.</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>App上显示的信息有多精准？</string>
+		<key>answer</key>
+		<string>净水器的出水剂量取决于多个外部参数，例如进水压力，进水水质，环境温度和湿度。显示在app上的信息可能会基于以上任何条件的变化而变化。</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>App上的TDS测量仪有多精准？</string>
+		<key>answer</key>
+		<string>TDS（总固体溶解量测量仪）指标是根据制水量的电导率测量出来的，而电导率又依据：1）离子迁移率2）离子化合价3）离子浓度4）水温。进水TDS显示值是依据出水TDS而来的一个指示性范围，当出水TDS值是一个绝对值并仅以指示说明为目的时，进水TDS值就不是一个绝对值。出水TDS显示可能会有变化，相应地，由于上述提到的参数的关系，进水TDS显示也会有变化。</string>
+		<key>isShowAnswer</key>
+		<false/>
+	</dict>
+</array>
+</plist>

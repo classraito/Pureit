@@ -1,0 +1,224 @@
+/* 
+  MyString.strings
+  Pureit
+
+  Created by Ryan Gong on 16/1/5.
+  Copyright © 2016年 Ryan Gong. All rights reserved.
+*/
+"GKK has been booked" = "GKK has been booked";
+"Coming soon..." = "Coming soon...";
+"CONNECT" = "CONNECT";
+"top 25%" = "top 25%";
+"middle 50%" = "middle 50%";
+"bottom 25%" = "bottom 25%";
+"CONNECT WIFI FAILED" = "Unable to connect to device.\nPlease restart the registration process and ensure that:\nWi-Fi password is entered correctly\nWi-Fi internet connection is working properly\nThe device is on config mode (the green LED is blinking)";
+
+"TOP" = "TOP";
+"BOTTOM" = "BOTTOM";
+"MIDDLE" = "MIDDLE";
+"我接受的条款和条件" = "I accept the terms & conditions";
+"下一步" = "NEXT";
+"警告" = "ALERT";
+"timeout" = "Connecting to device time out,please retry";
+"您还没有勾选同意条款" = "Please accept the terms and conditions";
+"欢迎" = "ALERT";
+"开始吧" = "Move to a smarter lifestyle";
+"登陆" = "LOG IN";
+"ME" = "ME";
+"CHINA" = "CHINA";
+"HYDRATION SCORE" = "PUREIT\nCONSUMPTION RANK";
+"配置你的Pureit" = "LET'S GET STARTED";//"Let’s get started";//
+"您的\n家庭今天的用水量" = "Your family's\nconsumption for today";
+"国内平均数据" = "China Average for today";
+"LIVE THE SMART LIFE" = "LIVE THE SMART LIFE";
+"TRACK" = "MAINTAIN HEALTHY HYDRATION";
+"COMPARE" = "COMPARE";
+"MANAGE" = "AUTOMATED DEVICE MANAGEMENT";
+"EARN & REDEEM POINTS" = "THE EXCLUSIVE CLUB PUREIT";
+"Connect your device with\nthe Pureit app" = "Know everything about your device, including water consumption and TDS levels, anytime & anywhere";
+"Track your daily Pureit\nwater consumption." = "Track your family's daily water intake and compare it to other families";
+"Compare with other Pureit\nfamilies across China." = "Compare with other Pureit\nfamilies across China.";
+"Receive alerts for timely\nfilter change" = "Automatically measures filter life and alerts when filter needs to be changed";
+"Be a part of the elite Club\nPureit and earn points\nwhich you can redeem for\n some amaazing offers." = "Be a part of the elite Club Pureit and enjoy special privileges";
+"跳过" = "SKIP";
+"忘记密码?" = "Forgot password?";
+"提交" = "SUBMIT";
+"个人资料" = "Profile";
+"恭喜" = "Congratulations";
+"您的个人资料已经更新成功!" = "Your profile has been updated!";
+"连接设备" = "REGISTER";
+"获得OTP" = "AUTHENTICATE";
+"个人信息" = "SUBMIT\nPROFILE";
+"Wifi SSID*" = "wifi Name*";
+"Wifi密码*" = "Enter Wi-Fi password*";
+"恭喜你!" = "Congratulations!";
+"我们非常高兴你得到纯净的第一滴水" = "Welcome to the elite Club Pureit!";
+"完成" = "DONE";
+"START ENJOYING THE BENEFITS" = "START ENJOYING THE BENEFITS";
+"手机号码" = "Mobile Number";
+"请输入6位验证码" = "Input the 6 digit verification code";
+
+"Enter the one time password(OTP) that has been to sent to your mobile." = "Enter the one time password(Authenticate) that has been to sent to your mobile.";
+"获取验证码" = "GET CODE";//"Authenticate";
+"姓名 *" = "Name*";
+"邮箱 *" = "E-mail*";
+"手机号码 *" = "Mobile Number*";
+"备用号码" = "Add another number";
+"街道，门牌号 *" = "Street Address, Building Number, Room*";
+"家庭成员 *" = "Family Members in the household*";
+"省份，城市，地区 *" = "Province, City, District";
+"或者" = "OR";
+"输入设备ID *" = "ENTER DEVICE ID*";
+"扫描Pureit设备上的条形码" = "SCAN YOUR PUREIT BAR CODE";
+"注册" = "Register";
+"注册完成" = "Welcome to the elite Club Pureit!";
+"你还没有填写设备ID,你可以扫描设备上的二维码或直接输入" = "You haven't fill in device ID yet,you can san QR Code on the Pureit device or just type in";
+"可能您还没有连上wifi，请重新尝试连接wifi" = "Was unable to get your wi-fi ID. Please reconnect your wi-fi and try again. ";
+"你还没有填写wifi密码" = "Please fill in wifi password";
+"手机号码必须是11位的数字" = "Mobile number must be 11 numbers";
+"手机号码格式不正确" = "Invalid Mobile Number";
+"旧手机号码必须是11位的数字" = "Current Mobile number must be 11 numbers";
+"旧手机号码格式不正确" = "Invalid Current Mobile Number";
+"新手机号码必须是11位的数字" = "New Mobile number must be 11 numbers";
+"新手机号码格式不正确" = "Invalid New Mobile Number";
+"新手机号码和旧手机号码不能相同" = "New Mobile Number Can't be same as Current Mobile Number";
+"验证码必须要6位数字" = "Verify Code must be 6 numbers";
+"请输入用户名" = "Please fill in User Name";
+"您还没有填写电子邮件" = "Please fill in Email";
+"电子邮件格式不正确" = "Invalid Email";
+"您还没有选择您的家庭成员" = "Please select your family members";
+"您还没有选择您的城市或地区" = "Please select your city";
+"你还没有填写街道信息" = "Please fill your street info";
+"请检查您的网络!" = "Please check your network!";
+"网络发生异常，请检查您的网络连接" = "Network exception,Please check your network";
+"我的用水量分析" = "Consumption Analysis";
+"按天" = "Daily";
+"按周" = "Weekly";
+"按月" = "Monthly";
+"Pureit Consumption Rank" = "Pureit Consumption Rank";
+"Manage Pureit" = "Manage Pureit";
+"Club Pureit!" = "Club Pureit!";
+"My Profile" = "My Profile";
+"FAQ’s" = "FAQ's";
+"About Pureit" = "About Pureit";
+"Settings" = "Settings";
+"SETTINGS" = "SETTINGS";
+"ON" = "ON";
+"OFF" = "OFF";
+"My Devices" = "My Devices";
+"App Notifications" = "App Notifications";
+"Terms and Conditions" = "Terms and Conditions";
+"Location Service" = "Location Service";
+"Device Management" = "Device Management";
+"GKK1" = "GKK1";
+"GKK2" = "GKK2";
+"YOUR TDS LEVEL %d PPM" = "YOUR TDS LEVEL %d ppm";
+"My order history" = "My order\nhistory";
+"Register a\ncomplaint" = "Register a\ncomplaint";
+"Call Pureit" = "Call Pureit";
+"BOOK GKK NOW" = "BOOK GKK NOW";
+"CONTINUE" = "CONTINUE";
+"Register as an additional user" = "Register as an additional user";
+"Sign in again" = "Sign in again";
+"Update my Phone number" = "Update my Phone number";
+"This device has already been registered." = "This device has already been registered.";
+"Need Help call us." = "Need Help?";
+"CALL HELPLINE" = "CALL HELPLINE";
+"Name" = "Name";
+"请填写您的问题类型" = "Please fill in your problem type";
+"请填写您问题的详细描述" = "Please fill in your problem detail";
+"Sign in" = "Sign in";
+"Welcome Back" = "Welcome Back";
+"We missed you & we're glad to have you back" = "We missed you & we're glad to have you back";
+"Current Mobile Number*" = "Current Mobile Number*";
+"New Mobile Number*" = "New Mobile Number*";
+"Update Mobile" = "Update Mobile";
+"we have sent a verification code to your email address %@." = "we have sent a verification code to your email address %@.";
+"Book a GKK" = "Book a GKK";
+"Select the type of problem" = "Select the type of problem";
+"Enter more details about the problem" = "Enter more details about the problem";
+"Book Gkk Sucess" = "Your booking is successfully registered with us. We will call you shortly to confirm your booking.";
+"Submit Complaints Sucess" = "We have received your complaint, your complaint ID is %@. We will get in touch with you shortly to arrange the technician’s visiting time.";
+"Submit Complaints Sucess(No CompaintID)" = "We have received your complaint,We will get in touch with you shortly to arrange the technician’s visiting time.";
+"Register a Complaint" = "Register a Complaint";
+"My Devices" = "My Devices";
+"DELETE DEVICE SUCESS" = "DELETE DEVICE SUCESS";
+"Tap to see more" = "Tap to see more";
+"Are you sure you want to delete this device [%@] from the app?" = "Are you sure you want to delete this device (%@) from the app?";
+"Are you sure you want switch to device [%@]?" = "Are you sure you want switch to device (%@)?";
+"BACK" = "BACK";
+"remaining" = "remaining";
+"Today, you have consumed %@,\nmeasured from 12:00 AM until now." = "Today, you have consumed %@,\nmeasured from 12:00 AM until now.";
+"Today, the average consumption of Chinese users\n is %@, measured from 12:00 AM until now." = "Today, the average consumption of Chinese users\n is %@, measured from 12:00 AM until now.";
+"Having Issues?" = "Having Issues?";
+"UPDATE" = "UPDATE";
+"Are you sure?" = "Are you sure?";
+"TDS levels above 500PPM is harmful for your health" = "TDS levels above 500ppm maybe harmful for your health";
+"problem1" = "Leakage / overflow";
+"problem2" = "Flow rate related";
+"problem3" = "Display related – LED issue, no input water";
+"problem4" = "low pressure, adaptor related";
+"problem5" = "Noise";
+"problem6" = "Component missing or breakage";
+"problem7" = "Taste";
+"problem8" = "Service / Demo / Installation / GKK change";
+"problem9" = "Cleaning";
+
+"problem10" = "Device is not switching on";
+"problem11" = "Water Flowrate is low";
+"problem12" = "Device Re-installation";
+"problem13" = "Output Water Appearance/Quality";
+"problem14" = "Others (Leakage/ Noise/etc.)";
+
+"重置设备wifi连接" = "重置设备wifi连接";
+"Today your Family is in the top 25% for water consumption amongst all Pureit users." = "Today your Family is in the top 25% for water consumption amongst all Pureit users.";
+"Today your Family is in the middle 50% for water consumption amongst all Pureit users."= "Today your Family is in the middle 50% for water consumption amongst all Pureit users.";
+"Today your Family is in the bottom 25% for water consumption amongst all Pureit users."= "Today your Family is in the bottom 25% for water consumption amongst all Pureit users.";
+"Wow!" = "Wow!";
+"Keep Going!" = "Keep Going!";
+"Buck Up!" = "Buck Up!";
+"Catch Up!" = "Catch Up!";
+
+"Its late at night and you are still awake. Its time to grab a glass of water. By drinking water before bed, your hormones, energy levels and muscles become balanced. This helps you relax and feel rejuvenated in the morning." = "Its late at night and you are still awake. Its time to grab a glass of water. By drinking water before bed, your hormones, energy levels and muscles become balanced. This helps you relax and feel rejuvenated in the morning.";
+
+"Its a good day to carry your umbrella, also don’t forget your daily water intake. You need to keep hydrated even though the weather is wet. Water helps maintain the balance of body fluids." = "Its a good day to carry your umbrella, also don’t forget your daily water intake. You need to keep hydrated even though the weather is wet. Water helps maintain the balance of body fluids.";
+
+"Its cold outside right now, please dress warmly and don’t forget to drink a glass of water. Water helps hydrate your skin, removes dryness and keeps your skin looking good." = "Its cold outside right now, please dress warmly and don’t forget to drink a glass of water. Water helps hydrate your skin, removes dryness and keeps your skin looking good.";
+
+"Today is a hot day and you’ve done well to keep yourself hydrated. Even mild dehydration can drain your energy and make you feel tired. Keep drinking water to be alert and to reduce fatigue." = "Today is a hot day and you’ve done well to keep yourself hydrated. Even mild dehydration can drain your energy and make you feel tired. Keep drinking water to be alert and to reduce fatigue.";
+
+"weather default text" = "A secret to great health is ensuring that you are hydrated at all times. Adequate water consumption daily ensures you stay energetic all day";
+
+
+//TODO::<peng> 2016_4_13
+"Your GKK1 is functioning well" = "Your GKK1 is functioning well";
+"Your GKK1 is low" = "Your GKK1 is low";
+"Your GKK2 is low" = "Your GKK2 is low";
+"Your GKK2 is functioning well" = "Your GKK2 is functioning well";
+
+"Ltrs" = "Ltrs";
+"Days" = "Days";
+"Weeks" = "Weeks";
+"Months" = "Months";
+"Device type *" = "Device type *";
+
+
+"WECHAT" = "WECHAT";
+"Sign in through your WeChat ID"="Sign in through your WeChat ID";
+
+"MOBILE" = "MOBILE";
+"Please slide left/right to see your previous consumption graph" = "Please slide left/right to see your previous consumption graph";
+"Donot show this message again" = "Do not show this message again";
+
+"APP FUNCTIONALITY" = "APP FUNCTIONALITY";
+"REGISTRATION" = "REGISTRATION";
+"DEVICE" = "DEVICE";
+"SERVICE RELATED" = "SERVICE RELATED";
+
+"question" =  "question_en";
+"answer" = "answer_en";
+"客户ID" = "customer ID";
+
+
+
+

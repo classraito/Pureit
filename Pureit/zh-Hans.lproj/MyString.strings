@@ -1,0 +1,223 @@
+/*
+ MyString.strings
+ Pureit
+ 
+ Created by Ryan Gong on 16/1/5.
+ Copyright © 2016年 Ryan Gong. All rights reserved.
+ */
+"GKK has been booked" = "已经预定过GKK了";
+"Coming soon..." = "即将发布...";
+"CONNECT" = "连接";
+"TOP" = "前";
+"BOTTOM" = "倒数";
+"MIDDLE" = "中游的";
+"CONNECT WIFI FAILED" = "无法连接到设备。\n请确保以下几条，并再次尝试连接：\na) 确保Wi-Fi密码正确\nb) 当前Wi-Fi可以访问互联网\nc) 净水设备正在配网状态(绿色LED不断闪烁)";
+"我接受的条款和条件" = "我接受的条款和条件";
+"下一步" = "下一步";
+"警告" = "警告";
+"timeout" = "连接设备超时，请重试";
+"您还没有勾选同意条款" = "您还没有勾选同意条款";
+"欢迎" = "欢迎";
+"开始吧" = "开始吧";
+"HYDRATION SCORE" = "制水量评分";
+"登陆" = "登陆";
+"ME" = "我的家人";
+"CHINA" = "中国";
+"配置你的Pureit" = "配置你的Pureit";
+"您的\n家庭今天的用水量" = "您的\n家庭今天的用水量";
+"国内平均数据" = "国内平均数据";
+"LIVE THE SMART LIFE" = "优质的智能生活";
+"TRACK" = "追踪";
+"COMPARE" = "比较";
+"MANAGE" = "自动设备管理";
+"EARN & REDEEM POINTS" = "获得 & 使用积分点";
+"Connect your device with\nthe Pureit app" = "获得有关您设备的所有信息，在任何时间任何地点";
+"Track your daily Pureit\nwater consumption." = "追踪您的Pureit设备每天的用水量";
+"Compare with other Pureit\nfamilies across China." = "和全国其他使用Pureit设备的家庭比较实用情况";
+"Receive alerts for timely\nfilter change" = "定时获得滤芯使用情况的数据";
+"Be a part of the elite Club\nPureit and earn points\nwhich you can redeem for\n some amaazing offers." = "成为Pureit的会员，您可以获得积分点并使用，也许会获得意想不到的惊喜哦!";
+"跳过" = "跳过";
+"忘记密码?" = "忘记密码?";
+"提交" = "提交";
+"个人资料" = "个人资料";
+"恭喜" = "恭喜";
+"您的个人资料已经更新成功!" = "您的个人资料已经更新成功!";
+"连接设备" = "连接设备";
+"获得OTP" = "获得OTP";
+"个人信息" = "个人信息";
+"Wifi SSID*" = "Wifi SSID*";
+"Wifi密码*" = "Wifi密码*";
+"恭喜你!" = "恭喜你!";
+"我们非常高兴你得到纯净的第一滴水" = "我们非常高兴你得到纯净的第一滴水";
+"完成" = "完成";
+"START ENJOYING THE BENEFITS" = "开始享受你的使用旅程吧";
+"手机号码" = "手机号码";
+"请输入6位验证码" = "请输入6位验证码";
+
+"Enter the one time password(OTP) that has been to sent to your mobile." = "验证码已经发送到您的手机上，并在这里输入您收到的验证码";
+"获取验证码" = "获取验证码";
+"姓名 *" = "姓名 *";
+"邮箱 *" = "邮箱 *";
+"手机号码 *" = "手机号码 *";
+"备用号码" = "备用号码";
+"街道，门牌号 *" = "街道，门牌号 *";
+"家庭成员 *" = "家庭成员 *";
+"省份，城市，地区 *" = "省份，城市，地区 *";
+"或者" = "或者";
+"输入设备ID *" = "输入设备ID *";
+"扫描Pureit设备上的条形码" = "扫描Pureit设备上的条形码";
+"注册" = "注册";
+"注册完成" = "注册完成";
+"你还没有填写设备ID,你可以扫描设备上的二维码或直接输入" = "你还没有填写设备ID,你可以扫描设备上的二维码或直接输入";
+"可能您还没有连上wifi，请重新尝试连接wifi" = "可能您还没有连上wifi，请重新尝试连接wifi";
+"你还没有填写wifi密码" = "你还没有填写wifi密码";
+"手机号码必须是11位的数字" = "手机号码必须是11位的数字";
+"手机号码格式不正确" = "手机号码格式不正确";
+"旧手机号码必须是11位的数字" = "旧手机号码必须是11位的数字";
+"旧手机号码格式不正确" = "旧手机号码格式不正确";
+"新手机号码必须是11位的数字" = "新手机号码必须是11位的数字";
+"新手机号码格式不正确" = "新手机号码格式不正确";
+"新手机号码和旧手机号码不能相同" = "新手机号码和旧手机号码不能相同";
+"验证码必须要6位数字" = "验证码必须要6位数字";
+"请输入用户名" = "请输入用户名";
+"您还没有填写电子邮件" = "您还没有填写电子邮件";
+"电子邮件格式不正确" = "电子邮件格式不正确";
+"您还没有选择您的家庭成员" = "您还没有选择您的家庭成员";
+"您还没有选择您的城市或地区" = "您还没有选择您的城市或地区";
+"你还没有填写街道信息" = "你还没有填写街道信息";
+"请检查您的网络!" = "请检查您的网络!";
+"网络发生异常，请检查您的网络连接" = "网络发生异常，请检查您的网络连接";
+"我的用水量分析" = "我的用水量分析";
+"按天" = "按天";
+"按周" = "按周";
+"按月" = "按月";
+"Pureit Consumption Rank" = "首页";
+"Manage Pureit" = "设备管理";
+"Club Pureit!" = "Pureit会员";
+"My Profile" = "个人资料";
+"FAQ’s" = "FAQ's";
+"About Pureit" = "关于Pureit";
+"Settings" = "设置";
+"SETTINGS" = "设置";
+"ON" = "开";
+"OFF" = "关";
+"My Devices" = "我的设备";
+"App Notifications" = "APP消息通知";
+"Terms and Conditions" = "条款和协议";
+"Location Service" = "定位服务";
+"Device Management" = "设备管理";
+"GKK1" = "GKK1";
+"GKK2" = "GKK2";
+"YOUR TDS LEVEL %d PPM" = "你的TDS值是 %d ppm";
+"My order history" = "订单历史";
+"Register a\ncomplaint" = "意见建议";
+"Call Pureit" = "联系电话";
+"BOOK GKK NOW" = "预定滤芯";
+"CONTINUE" = "继续操作";
+"Register as an additional user" = "注册成为第二个用户";
+"Sign in again" = "使用已存在的帐号登录";
+"Update my Phone number" = "更新我的电话号码";
+"This device has already been registered." = "这个设备已经注册了一个手机号码。";
+"Need Help call us." = "碰到问题的话可以拨打帮助电话";
+"CALL HELPLINE" = "拨打帮助电话";
+"Name" = "姓名";
+"请填写您的问题类型" = "请填写您的问题类型";
+"请填写您问题的详细描述" = "请填写您问题的详细描述";
+"Sign in" = "登录";
+"Welcome Back" = "欢迎回来";
+"We missed you & we're glad to have you back" = "我们想念你 非常高兴你回来了";
+"Current Mobile Number*" = "当前手机号码*";
+"New Mobile Number*" = "新手机号码*";
+"Update Mobile" = "更新手机号码";
+"we have sent a verification code to your email address %@." = "我们已经往您的电子邮箱里发送了一封邮件 %@.";
+"Book a GKK" = "预定一个GKK";
+"Select the type of problem" = "选择问题的类型";
+"Enter more details about the problem" = "请输入问题的详细描述";
+"Book Gkk Sucess" = "预定GKK成功";
+"Submit Complaints Sucess" = "您的投诉建议或问题已经成功提交到我们后台!问题编号是%@,请您妥善保存。请您耐心等待 稍后我们客服会联系您";
+"Submit Complaints Sucess(No CompaintID)" = "您的投诉建议或问题已经成功提交到我们后台!请您耐心等待 稍后我们客服会联系您";
+"Register a Complaint" = "提交问题";
+"My Devices" = "我的设备";
+"DELETE DEVICE SUCESS" = "成功删除设备";
+"Tap to see more" = "查看更多";
+"Are you sure you want to delete this device [%@] from the app?" = "您确定要把设备(%@)删除么?";
+"Are you sure you want switch to device [%@]?" = "你确定要切换到这个设备(%@)的数据么?";
+"BACK" = "返回";
+"remaining" = "剩余";
+"Today, you have consumed %@,\nmeasured from 12:00 AM until now." = "从今天凌晨0点开始统计,您总共使用了 %@";
+"Today, the average consumption of Chinese users\n is %@, measured from 12:00 AM until now." = "从今天凌晨0点开始统计,所有中国用户平均使用了 %@";
+"Having Issues?" = "Having Issues?";
+"UPDATE" = "更新";
+"Are you sure?" = "Are you sure?";
+"TDS levels above 500PPM is harmful for your health" = "TDS水平超过500ppm的话也许会对您的身体有害";
+"problem1" = "渗漏物  /  溢出物";
+"problem2" = "与流量相关";
+"problem3" = "LED 问题，没有水源输入";
+"problem4" = "低压，与适配器相关";
+"problem5" = "噪声";
+"problem6" = "部件丢失或损坏";
+"problem7" = "味道";
+"problem8" = "服务/演示/安装/ GKK变化";
+"problem9" = "清洁";
+
+"problem10" = "设备不能开启";
+"problem11" = "出水不畅，水流量偏低";
+"problem12" = "重新安装净水设备";
+"problem13" = "制水/出水外观问题，水质问题";
+"problem14" = "其它 (泄漏,噪音,等等其他问题.)";
+
+"重置设备wifi连接" = "重置设备wifi连接";
+"Today your Family is in the top 25% for water consumption amongst all Pureit users." = "今天您的家庭用水量比全国75%的用户高。";
+"Today your Family is in the middle 50% for water consumption amongst all Pureit users."= "今天您的家庭用水量与全国50%的用户相当。";
+"Today your Family is in the bottom 25% for water consumption amongst all Pureit users."= "今天您的家庭用水量比全国75%的用户低。";
+"top 25%" = "比全国75%的用户高";
+"middle 50%" = "与全国50%的用户相当";
+"bottom 25%" = "比全国75%的用户低";
+"Wow!" = "哇哦!";
+"Keep Going!" = "继续保持!";
+"Buck Up!" = "不要放弃!";
+"Catch Up!" = "加油哦!";
+
+"Its late at night and you are still awake. Its time to grab a glass of water. By drinking water before bed, your hormones, energy levels and muscles become balanced. This helps you relax and feel rejuvenated in the morning." = "现在已经很晚啦，是时候拿起一杯水喝了，睡前喝一杯水可以使您的激素水平、能量水平、肌肉保持平衡，这样能使您在第二天起来时放松并且保持活力。";
+
+"Its a good day to carry your umbrella, also don’t forget your daily water intake. You need to keep hydrated even though the weather is wet. Water helps maintain the balance of body fluids." = "今天可能下雨别忘了带一把伞，但也别忘了保持水分的摄入，尽管今天已经够潮湿的了，水能保持身体内体液的平衡。";
+
+"Its cold outside right now, please dress warmly and don’t forget to drink a glass of water. Water helps hydrate your skin, removes dryness and keeps your skin looking good." = "今天外面很冷，请多加点衣服保持温暖，但也别忘了多喝水，喝水能滋润你的皮肤，让它们看起来更漂亮";
+
+"Today is a hot day and you’ve done well to keep yourself hydrated. Even mild dehydration can drain your energy and make you feel tired. Keep drinking water to be alert and to reduce fatigue." = "今天比较炎热，你可能虽然已经注意到补充水分了，但是即使慢慢的失去水分也会使你渐渐的失去能量，请注意减轻你失水的速度";
+
+"weather default text" = "确保你身体健康的秘密是保持你每天水分的摄入，每天充足的水和作用能使你的身体充满活力";
+
+//TODO::<peng> 2016_4_13
+"Your GKK1 is functioning well" = "您的 GKK1 工作良好";
+"Your GKK1 is low" = "您的 GKK1 有点低";
+"Your GKK2 is low" = "您的 GKK2 有点低";
+"Your GKK2 is functioning well" = "您的 GKK2 工作良好";
+
+"Ltrs" = "升";
+"Days" = "天";
+"Weeks" = "周";
+"Months" = "月";
+
+"Device type *" = "设备类型 *";
+
+"WECHAT" = "微信";
+"Sign in through your WeChat ID"="使用您的微信账号注册";
+"MOBILE" = "手机号注册";
+
+"Please slide left/right to see your previous consumption graph" = "请使用手机左右滑动来查看相邻时间上的数据";
+"Donot show this message again" = "不要再显示这条提示消息";
+
+"APP FUNCTIONALITY" = "APP 功能";
+"REGISTRATION" = "注册流程";
+"DEVICE" = "设备问题";
+"SERVICE RELATED" = "服务相关";
+
+"question" =  "question_cn";
+"answer" = "answer_cn";
+"客户ID" = "客户ID";
+
+
+
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FGRegisterQRCodeScanView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="205"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="scan.png" id="doL-AB-13p">
+                    <rect key="frame" x="141" y="3" width="37" height="77"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <view contentMode="scaleToFill" id="17B-Nh-YJh" customClass="FGViewWithSepratorLineView">
+                    <rect key="frame" x="56" y="131" width="210" height="24"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="6TL-gf-kkT" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="156" width="320" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="E2j-oR-Ko2">
+                    <rect key="frame" x="1" y="204" width="320" height="1"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="fTh-bb-Sfb" customClass="FGCustomButton">
+                    <rect key="frame" x="26" y="85" width="269" height="36"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.32842094420000001" green="0.70025208400000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="cb_scanQR" destination="fTh-bb-Sfb" id="nkW-XZ-oKS"/>
+                <outlet property="ctf_deviceID" destination="6TL-gf-kkT" id="wS9-GE-C4b"/>
+                <outlet property="iv_phone" destination="doL-AB-13p" id="BxZ-1p-lck"/>
+                <outlet property="view_bottomLine" destination="E2j-oR-Ko2" id="GUI-on-BST"/>
+                <outlet property="vsl_separator" destination="17B-Nh-YJh" id="yVc-wj-uPa"/>
+            </connections>
+            <point key="canvasLocation" x="476" y="446.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="scan.png" width="96" height="179"/>
+    </resources>
+</document>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FGSettingMenuHomeViewController">
+            <connections>
+                <outlet property="btn_AboutPureit" destination="8tb-ka-Zmn" id="Rgd-xF-gLP"/>
+                <outlet property="btn_FAQs" destination="Ia7-su-C3G" id="PTD-7H-tRg"/>
+                <outlet property="btn_Settings" destination="t7Q-c5-KVm" id="Qij-5s-N8N"/>
+                <outlet property="btn_clubPureit" destination="kT4-cn-Q3i" id="Ie3-uf-fUx"/>
+                <outlet property="btn_deviceManagement" destination="8pD-qT-i5q" id="RTE-TL-wg4"/>
+                <outlet property="btn_home" destination="wKn-Sz-XEb" id="bZd-yw-TGd"/>
+                <outlet property="btn_myProfile" destination="bgc-eH-r8E" id="abF-JO-XpZ"/>
+                <outlet property="iv_AboutPureit" destination="Ba8-Ws-zos" id="6Hl-DI-7Df"/>
+                <outlet property="iv_FAQs" destination="kgT-U0-2Gl" id="yf0-Fa-o3w"/>
+                <outlet property="iv_Settings" destination="fL2-KM-aBL" id="eS8-Tx-x6d"/>
+                <outlet property="iv_clubPureit" destination="KYF-3h-nts" id="Ynq-pV-FrJ"/>
+                <outlet property="iv_deviceManagement" destination="C2E-xu-YR9" id="kDm-qC-s3O"/>
+                <outlet property="iv_home" destination="cQb-Af-65H" id="4gn-nU-x4y"/>
+                <outlet property="iv_myProfile" destination="UOP-Q0-zaa" id="UZl-na-w8b"/>
+                <outlet property="lb_AboutPureit" destination="QRc-sh-AWg" id="gcB-O6-F8h"/>
+                <outlet property="lb_FAQs" destination="X0c-au-WIM" id="qQW-yb-VsI"/>
+                <outlet property="lb_Settings" destination="L45-NN-tGe" id="bsA-xw-88o"/>
+                <outlet property="lb_clubPureit" destination="x38-AG-BOt" id="l97-NN-1cH"/>
+                <outlet property="lb_deviceManagement" destination="kda-pM-zKF" id="jPr-Wu-98g"/>
+                <outlet property="lb_home" destination="DSf-aA-tOA" id="NBt-Mf-a33"/>
+                <outlet property="lb_myProfile" destination="nRR-br-u4q" id="1TM-oZ-7ng"/>
+                <outlet property="view" destination="DcJ-wI-cKg" id="swL-P3-hQS"/>
+                <outlet property="view_contentView" destination="dJy-Hn-pzw" id="GSH-IP-Vvw"/>
+                <outlet property="view_line1" destination="2Z9-M1-9iX" id="j41-cX-AEq"/>
+                <outlet property="view_line2" destination="OIt-Qn-xi6" id="bEw-aV-AWw"/>
+                <outlet property="view_line3" destination="Uhx-9s-vOO" id="8aJ-F6-nzT"/>
+                <outlet property="view_line4" destination="MKn-Dx-Nqo" id="R7v-eh-KYc"/>
+                <outlet property="view_line5" destination="tQO-oY-Ppc" id="dPQ-pX-Haz"/>
+                <outlet property="view_line6" destination="sQf-lM-5JN" id="2pQ-wc-TTV"/>
+                <outlet property="view_line7" destination="Rqm-9h-Sip" id="mdF-bW-Yyn"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="DcJ-wI-cKg">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="569"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="dJy-Hn-pzw">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="569"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-home.png" id="cQb-Af-65H">
+                            <rect key="frame" x="121" y="95" width="18" height="19"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Home page" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="DSf-aA-tOA">
+                            <rect key="frame" x="168" y="94" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-water.png" id="C2E-xu-YR9">
+                            <rect key="frame" x="123" y="127" width="13" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Device Management" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kda-pM-zKF">
+                            <rect key="frame" x="168" y="127" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-star.png" id="KYF-3h-nts">
+                            <rect key="frame" x="119" y="165" width="20" height="19"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Club Pureit" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="x38-AG-BOt">
+                            <rect key="frame" x="168" y="164" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-user.png" id="UOP-Q0-zaa">
+                            <rect key="frame" x="121" y="201" width="17" height="17"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Profile" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="nRR-br-u4q">
+                            <rect key="frame" x="168" y="199" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-FAQ.png" id="kgT-U0-2Gl">
+                            <rect key="frame" x="123" y="237" width="12" height="18"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FAQs" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="X0c-au-WIM">
+                            <rect key="frame" x="168" y="236" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-about.png" id="Ba8-Ws-zos">
+                            <rect key="frame" x="125" y="275" width="7" height="18"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="About Pureit" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="QRc-sh-AWg">
+                            <rect key="frame" x="168" y="273" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings-setting.png" id="fL2-KM-aBL">
+                            <rect key="frame" x="119" y="307" width="21" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Settings" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="L45-NN-tGe">
+                            <rect key="frame" x="168" y="307" width="217" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" id="2Z9-M1-9iX">
+                            <rect key="frame" x="5" y="120" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="OIt-Qn-xi6">
+                            <rect key="frame" x="5" y="156" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="Uhx-9s-vOO">
+                            <rect key="frame" x="5" y="192" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="MKn-Dx-Nqo">
+                            <rect key="frame" x="5" y="228" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="tQO-oY-Ppc">
+                            <rect key="frame" x="5" y="264" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="sQf-lM-5JN">
+                            <rect key="frame" x="5" y="300" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="Rqm-9h-Sip">
+                            <rect key="frame" x="5" y="336" width="310" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="wKn-Sz-XEb">
+                            <rect key="frame" x="130" y="87" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_home:" destination="-1" eventType="touchUpInside" id="2gT-9l-Oda"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="8pD-qT-i5q">
+                            <rect key="frame" x="133" y="120" width="239" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_deviceManagement:" destination="-1" eventType="touchUpInside" id="fxH-LK-8UJ"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="kT4-cn-Q3i">
+                            <rect key="frame" x="130" y="157" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_clubPureit:" destination="-1" eventType="touchUpInside" id="Ph8-xN-LAs"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="bgc-eH-r8E">
+                            <rect key="frame" x="130" y="192" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_myProfile:" destination="-1" eventType="touchUpInside" id="2gI-PW-cHH"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="Ia7-su-C3G">
+                            <rect key="frame" x="130" y="229" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_FAQs:" destination="-1" eventType="touchUpInside" id="1iM-Kc-0qc"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="8tb-ka-Zmn">
+                            <rect key="frame" x="130" y="267" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_aboutPureit:" destination="-1" eventType="touchUpInside" id="d5Z-Mj-Vmz"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="t7Q-c5-KVm">
+                            <rect key="frame" x="130" y="300" width="246" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_settings:" destination="-1" eventType="touchUpInside" id="t8P-R2-tJb"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="227" y="-64.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="settings-FAQ.png" width="37" height="54"/>
+        <image name="settings-about.png" width="21" height="54"/>
+        <image name="settings-home.png" width="54" height="56"/>
+        <image name="settings-setting.png" width="63" height="63"/>
+        <image name="settings-star.png" width="60" height="58"/>
+        <image name="settings-user.png" width="52" height="52"/>
+        <image name="settings-water.png" width="41" height="65"/>
+    </resources>
+</document>

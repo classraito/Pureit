@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="hFl-0w-Vx7" customClass="FGAdditionalUserRegistOptionView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="402"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="coo-mG-3i9">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="164"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" id="YNP-Sz-T6K" customClass="FGCustomButton">
+                            <rect key="frame" x="80" y="16" width="160" height="38"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="zS2-Vp-GKH" customClass="FGViewWithSepratorLineView">
+                            <rect key="frame" x="63" y="73" width="195" height="24"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="UPQ-TV-Miq" customClass="FGCustomButton">
+                            <rect key="frame" x="80" y="115" width="160" height="38"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.90196078430000004" green="0.90588235289999997" blue="0.91372549020000005" alpha="1" colorSpace="calibratedRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="cb_mobile" destination="UPQ-TV-Miq" id="GlW-eg-0Dc"/>
+                <outlet property="cb_wecheat" destination="YNP-Sz-T6K" id="zeU-0J-fWx"/>
+                <outlet property="view_bg" destination="coo-mG-3i9" id="v2U-aj-gt9"/>
+                <outlet property="vsl_OR" destination="zS2-Vp-GKH" id="Mfa-Ms-u21"/>
+            </connections>
+            <point key="canvasLocation" x="1840" y="469"/>
+        </view>
+    </objects>
+</document>

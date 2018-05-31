@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FGAddinationalUserRegistrationView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.80000000000000004" contentMode="scaleToFill" id="nuK-Zy-c6m">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="bJl-kb-7Qu">
+                    <rect key="frame" x="7" y="60" width="306" height="448"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This device has already been registered with a primary phone  no.What would you like to do?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="62X-3c-13g">
+                            <rect key="frame" x="34" y="22" width="238" height="59"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="radio1.png" highlightedImage="radio2.png" id="QmJ-3Q-zgc">
+                            <rect key="frame" x="50" y="127" width="20" height="20"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="radio1.png" highlightedImage="radio2.png" id="rHr-JQ-wBC">
+                            <rect key="frame" x="50" y="164" width="20" height="20"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="radio1.png" highlightedImage="radio2.png" id="nge-sB-wbG">
+                            <rect key="frame" x="50" y="204" width="20" height="20"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Register as an additional user" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="j5Y-FW-nx0">
+                            <rect key="frame" x="78" y="126" width="206" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sign-in as an existing user" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="cIs-ds-kiQ">
+                            <rect key="frame" x="78" y="163" width="206" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Update my phone no." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wwX-Q8-1HG">
+                            <rect key="frame" x="78" y="203" width="206" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="rGO-C3-3fw">
+                            <rect key="frame" x="45" y="122" width="227" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_option1:" destination="iN0-l3-epB" eventType="touchUpInside" id="aL6-Q9-IWw"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="kEr-92-WiS">
+                            <rect key="frame" x="45" y="159" width="227" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_option2:" destination="iN0-l3-epB" eventType="touchUpInside" id="VuB-R6-Krg"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="BST-fv-OkL">
+                            <rect key="frame" x="45" y="199" width="227" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_option3:" destination="iN0-l3-epB" eventType="touchUpInside" id="ACf-sH-FEZ"/>
+                            </connections>
+                        </button>
+                        <view contentMode="scaleToFill" id="adr-IK-emJ" customClass="FGCustomButton">
+                            <rect key="frame" x="69" y="271" width="169" height="40"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" id="YJX-a1-l0G">
+                            <rect key="frame" x="18" y="344" width="270" height="1"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Need Help call us" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="w8J-if-h3P">
+                            <rect key="frame" x="13" y="363" width="280" height="38"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="btn_phone.png" id="wbL-zG-9PJ">
+                            <rect key="frame" x="80" y="409" width="15" height="15"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CALL HELPLINE" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Lix-8W-Sce">
+                            <rect key="frame" x="94" y="407" width="118" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="3Mj-SN-u9T">
+                            <rect key="frame" x="78" y="402" width="144" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_callHelpLine:" destination="iN0-l3-epB" eventType="touchUpInside" id="BUJ-9e-U4M"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btn_callHelpLine" destination="3Mj-SN-u9T" id="J8h-Db-WFd"/>
+                <outlet property="btn_option1" destination="rGO-C3-3fw" id="OPd-4S-a7H"/>
+                <outlet property="btn_option2" destination="kEr-92-WiS" id="TaZ-cD-xIT"/>
+                <outlet property="btn_option3" destination="BST-fv-OkL" id="Oob-4x-Wjo"/>
+                <outlet property="cb_continue" destination="adr-IK-emJ" id="Evs-cT-eo9"/>
+                <outlet property="iv_icon_phone" destination="wbL-zG-9PJ" id="dLj-g2-DQe"/>
+                <outlet property="iv_option1" destination="QmJ-3Q-zgc" id="hP8-PF-Lnv"/>
+                <outlet property="iv_option2" destination="rHr-JQ-wBC" id="HNU-5z-1yA"/>
+                <outlet property="iv_option3" destination="nge-sB-wbG" id="UhT-Vb-K2i"/>
+                <outlet property="lb_callHelpLine" destination="Lix-8W-Sce" id="tL1-rI-Nsg"/>
+                <outlet property="lb_option_registerAdditionalUser" destination="j5Y-FW-nx0" id="QXp-jT-Cz4"/>
+                <outlet property="lb_option_signinAsAnExistingUser" destination="cIs-ds-kiQ" id="k9l-hR-NyA"/>
+                <outlet property="lb_option_updateMyPhoneNo" destination="wwX-Q8-1HG" id="d2I-j8-UT0"/>
+                <outlet property="lb_title_bottom" destination="w8J-if-h3P" id="OhA-qs-GfM"/>
+                <outlet property="lb_title_top" destination="62X-3c-13g" id="a5f-l5-JAw"/>
+                <outlet property="view_lineSeparator" destination="YJX-a1-l0G" id="fy8-34-xE0"/>
+                <outlet property="view_mask" destination="nuK-Zy-c6m" id="iIE-lL-otq"/>
+                <outlet property="view_whiteBg" destination="bJl-kb-7Qu" id="EOX-mY-D9V"/>
+            </connections>
+            <point key="canvasLocation" x="212" y="362"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="btn_phone.png" width="58" height="63"/>
+        <image name="radio1.png" width="68" height="68"/>
+        <image name="radio2.png" width="68" height="68"/>
+    </resources>
+</document>

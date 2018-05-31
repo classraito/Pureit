@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="nYF-mU-qdD" customClass="FGRegisterProfileView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="433"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="FHd-oz-TTb" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="HGA-DY-BaV" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="45" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="X06-pJ-Qn8" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="90" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="Lw7-Uz-PGE" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="135" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="kdW-rf-Xp2" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="135" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="VkW-Bd-rBK" customClass="FGCustomButton">
+                    <rect key="frame" x="204" y="145" width="76" height="25"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="fuB-94-Xaa">
+                    <rect key="frame" x="283" y="147" width="37" height="21"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" id="wFv-vD-807" customClass="FGCustomButton">
+                    <rect key="frame" x="0.0" y="180" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="mrP-Vz-Veh" customClass="FGCustomButton">
+                    <rect key="frame" x="0.0" y="225" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="bZ3-5u-gHT" customClass="FGCustomTextFieldView">
+                    <rect key="frame" x="0.0" y="270" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="UGU-II-f8D" customClass="FGCustomButton">
+                    <rect key="frame" x="0.0" y="315" width="320" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="7Ee-Db-oTm" customClass="FGCustomButton">
+                    <rect key="frame" x="73" y="380" width="174" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="cb_deviceType" destination="UGU-II-f8D" id="P7x-qb-EAw"/>
+                <outlet property="cb_familyMember" destination="wFv-vD-807" id="xmX-19-7PW"/>
+                <outlet property="cb_province" destination="mrP-Vz-Veh" id="kFj-cS-fxy"/>
+                <outlet property="cb_sendVerifyCode" destination="VkW-Bd-rBK" id="cNC-EG-8Fk"/>
+                <outlet property="cb_submit" destination="7Ee-Db-oTm" id="uQn-gJ-Mc2"/>
+                <outlet property="ctf_email" destination="HGA-DY-BaV" id="VV5-Cq-UmY"/>
+                <outlet property="ctf_landline" destination="Lw7-Uz-PGE" id="unY-2U-fpw"/>
+                <outlet property="ctf_mobile" destination="X06-pJ-Qn8" id="kEJ-ax-x7n"/>
+                <outlet property="ctf_name" destination="FHd-oz-TTb" id="nfl-K4-Koc"/>
+                <outlet property="ctf_street" destination="bZ3-5u-gHT" id="fvM-6y-hLg"/>
+                <outlet property="ctf_verifyCode" destination="kdW-rf-Xp2" id="fap-xd-2tE"/>
+                <outlet property="lb_timeCounter" destination="fuB-94-Xaa" id="tYc-RK-eO0"/>
+            </connections>
+            <point key="canvasLocation" x="1065" y="-40.5"/>
+        </view>
+    </objects>
+</document>
