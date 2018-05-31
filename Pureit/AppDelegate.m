@@ -24,7 +24,7 @@ void uncaughtExceptionHandler(NSException *exception) {
 @synthesize slideViewController;
 @synthesize deviceToken;
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
- 
+    
     //向微信注册
     [WXApi registerApp:WECHAT_APPID withDescription:@"demo 2.0"];
     
